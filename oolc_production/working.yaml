@@ -1,0 +1,6 @@
+project_id: personal_oomp_household_kitchen_pantry
+project_name: Personal Oomp Household Kitchen Pantry
+project_repo: https://github.com/oomlout/personal_oomp_household_kitchen_pantry
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
