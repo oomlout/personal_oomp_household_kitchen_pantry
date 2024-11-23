@@ -407,6 +407,8 @@ food_bakery_bread_multigrain_brown_bloomer_jackson:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -832,6 +834,8 @@ food_bakery_tortilla_wrap_soft:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -1201,6 +1205,8 @@ food_baking_flour_white:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: w
   short_code_upper: W
   size: flour
@@ -1625,6 +1631,8 @@ food_baking_sugar_caster:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: sugar
@@ -2049,6 +2057,8 @@ food_baking_sugar_granulated:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: sugar
@@ -2473,6 +2483,8 @@ food_baking_sugar_icing:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: sugar
@@ -2896,6 +2908,8 @@ food_baking_sugar_light_brown:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: sugar
@@ -3320,6 +3334,8 @@ food_baking_sugar_muscavado:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: sugar
@@ -3766,6 +3782,8 @@ food_bean_chickpea_tin_400_gram:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -4189,6 +4207,8 @@ food_bean_kidney_bean_tin_400_gram:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -4635,6 +4655,8 @@ food_bean_refried_bean_tin_435_gram_elpaso:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -5106,6 +5128,8 @@ food_condiment_jam_apricot_jar_370_gram_bonne_maman:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -5576,6 +5600,8 @@ food_condiment_jam_marmalade_jar_370_gram_bonne_maman:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -6046,6 +6072,8 @@ food_condiment_jam_raspberry_jar_370_gram_bonne_maman:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -6517,6 +6545,8 @@ food_condiment_jam_strawberry_jar_370_gram_bonne_maman:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -6988,6 +7018,8 @@ food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -7459,6 +7491,8 @@ food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -7930,6 +7964,8 @@ food_condiment_savoury_salsa_green_jar_240_gram_herdez:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -8401,6 +8437,8 @@ food_condiment_savoury_salsa_red_jar_240_gram_herdez:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -8848,6 +8886,8 @@ food_dairy_2000_ml_milk_semi_skim_filtered_cravendale:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: 2000_ml
@@ -9321,6 +9361,8 @@ food_dairy_cheese_mature_cheddar_cathedral_city:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -9745,6 +9787,8 @@ food_dairy_eggs_large_free_range_six:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -10215,6 +10259,8 @@ food_drink_coffee_ground_filter_classic_tin_250_gram_illy:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: coffee
@@ -10709,6 +10755,8 @@ food_drink_coffee_instant_espresso_jar_95_gram_nescafe:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: coffee
@@ -11157,6 +11205,8 @@ food_fruit_apple_pink_lady:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -11558,6 +11608,8 @@ food_fruit_bunch_banana:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: bunch
@@ -12007,6 +12059,8 @@ food_meat_sausages_pork_chipolatas:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -12429,6 +12483,8 @@ food_meat_tuna_in_sunflower_oil_tin_125_gram:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -12874,6 +12930,8 @@ food_pantry_ingredient_coconut_milk_tin_400_ml:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -13348,6 +13406,8 @@ food_pantry_ingredient_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_g
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -13819,6 +13879,8 @@ food_pantry_ingredient_tomatoes_tin_400_gram_cirio:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -14291,6 +14353,8 @@ food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_gro
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -14691,6 +14755,8 @@ food_starch_oats_porridge:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: oats
@@ -15116,6 +15182,8 @@ food_starch_pasta_fusilli:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: pasta
@@ -15540,6 +15608,8 @@ food_starch_pasta_penne:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: pasta
@@ -15963,6 +16033,8 @@ food_starch_pasta_spaghetti:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: pasta
@@ -16435,6 +16507,8 @@ food_starch_pasta_spaghetti_box_500_gram_barilla:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: pasta
@@ -16859,6 +16933,8 @@ food_starch_rice_basmati:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: rice
@@ -17282,6 +17358,8 @@ food_starch_rice_brown_short_grain:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: rice
@@ -17706,6 +17784,8 @@ food_starch_rice_dong_bei:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: rice
@@ -18131,6 +18211,8 @@ food_vegetable_avocado:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -18532,6 +18614,8 @@ food_vegetable_broccoli:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -18932,6 +19016,8 @@ food_vegetable_carrot:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -19333,6 +19419,8 @@ food_vegetable_chinese_leaf:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -19733,6 +19821,8 @@ food_vegetable_coriander:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -20132,6 +20222,8 @@ food_vegetable_cucumber:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -20532,6 +20624,8 @@ food_vegetable_dill:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -20957,6 +21051,8 @@ food_vegetable_lettuce_iceberg:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -21382,6 +21478,8 @@ food_vegetable_pepper_red:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -21807,6 +21905,8 @@ food_vegetable_sweetcorn_tin_198_gram:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -22233,6 +22333,8 @@ food_vegetable_sweetcorn_tin_340_gram:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -22657,6 +22759,8 @@ food_vegetable_tomato_cherry_piccolo:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -23081,6 +23185,8 @@ food_vegetable_tomato_rosa_vine:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
@@ -23530,6 +23636,8 @@ food_vegetable_tomatoes_tin_400_gram_cirio:
   part_number_first_letter_upper: ''
   part_number_name: ''
   part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
   short_code: ''
   short_code_upper: ''
   size: ''
