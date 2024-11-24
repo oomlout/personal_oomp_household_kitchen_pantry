@@ -99,6 +99,8 @@
       * [porridge](food/starch/oats/porridge)
     * [pasta](food/starch/pasta)
       * [fusilli](food/starch/pasta/fusilli)
+        * [box_500_gram](food/starch/pasta/fusilli/box_500_gram)
+          * [barilla](food/starch/pasta/fusilli/box_500_gram/barilla)
       * [penne](food/starch/pasta/penne)
       * [spaghetti](food/starch/pasta/spaghetti)
         * [box_500_gram](food/starch/pasta/spaghetti/box_500_gram)
